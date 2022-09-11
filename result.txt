@@ -1,0 +1,11 @@
+git statis
+git status
+
+pwd
+gh repo clone ttrsullivan/repo-exercisegh r[3~[3~[3~[3~[3~
+git status
+
+
+clear
+error
+line feed
